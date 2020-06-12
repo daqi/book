@@ -22,11 +22,15 @@
   "dependencies": {
     "@umijs/preset-react": "1.x",
     "@umijs/test": "^3.2.3",
+    "add": "^2.0.6",
+    "axios": "^0.19.2",
     "lint-staged": "^10.0.7",
     "prettier": "^1.19.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "tailwindcss": "^1.4.6",
     "umi": "^3.2.3",
+    "yarn": "^1.22.4",
     "yorkie": "^2.0.0"
   }
 }
